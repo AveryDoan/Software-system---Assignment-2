@@ -61,7 +61,11 @@ def encounters_by_month() -> object:
         COUNT(*) AS EncounterCount
     FROM FactEncounter fe
     JOIN DimTime t ON fe.TimeID = t.TimeID
-    WHERE t.Year = (SELECT MAX(Year) FROM DimTime)
+    WHERE t.Year = (
+        SELECT MAX(t2.Year)
+        FROM FactEncounter fe2
+        JOIN DimTime t2 ON fe2.TimeID = t2.TimeID
+    )
     GROUP BY t.Year, t.Month
     ORDER BY t.Year, t.Month
     """
