@@ -1,0 +1,18 @@
+[
+  {
+    "AgeBand": "0-17",
+    "AvgLengthOfStay": 5.02
+  },
+  {
+    "AgeBand": "18-34",
+    "AvgLengthOfStay": 5.03
+  },
+  {
+    "AgeBand": "35-64",
+    "AvgLengthOfStay": 4.79
+  },
+  {
+    "AgeBand": "65+",
+    "AvgLengthOfStay": 4.86
+  }
+]

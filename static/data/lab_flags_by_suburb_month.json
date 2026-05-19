@@ -1,0 +1,6932 @@
+[
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Berrimah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Casuarina",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Durack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Johnston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Johnston",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Marrara",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 15
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Millner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 14
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Mitchell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Nakara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Nakara",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Palmerston",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Parap",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Wagaman",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Anula",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Berrimah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Casuarina",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Driver",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Parap",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Rosebery",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wagaman",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wanguri",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Bayview",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Leanyer",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Moil",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Muirhead",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Nakara",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "The Gardens",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wanguri",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Anula",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Durack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Durack",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 14
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Karama",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Karama",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Mitchell",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Moil",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Moulden",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Nakara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Palmerston",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Parap",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Parap",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Rosebery",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Tiwi",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Wanguri",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Winnellie",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Alawa",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 22
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Berrimah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Berrimah",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 18
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 18
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Jingili",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Johnston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Leanyer",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Marrara",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Mitchell",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Moil",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Moil",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Moulden",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Muirhead",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Parap",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Parap",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "The Gardens",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 15
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Winnellie",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 15
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Anula",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Anula",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bayview",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Casuarina",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Driver",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Driver",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Driver",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Malak",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Marrara",
+    "ResultFlag": "LOW",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Mitchell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Mitchell",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Moil",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Moil",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Muirhead",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Palmerston",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Wagaman",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woolner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Berrimah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Casuarina",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Durack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Millner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moil",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moil",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moulden",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moulden",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Nakara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Rosebery",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Stuart Park",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "The Gardens",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Winnellie",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Winnellie",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 14
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bakewell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bakewell",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bayview",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 16
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Driver",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Driver",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Jingili",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Karama",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Moil",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Rosebery",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "The Gardens",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wagaman",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Woolner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Anula",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bakewell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Durack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Durack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Johnston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Karama",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 13
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Leanyer",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Mitchell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Moulden",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Muirhead",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Muirhead",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Nakara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Nakara",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Tiwi",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "LOW",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Bakewell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Durack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Durack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gray",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Leanyer",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Marrara",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Millner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Mitchell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Moulden",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Moulden",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Nakara",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Parap",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Rosebery",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Rosebery",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Tiwi",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Alawa",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Anula",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Anula",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bakewell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bakewell",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bayview",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Berrimah",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Brinkin",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Brinkin",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Brinkin",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 12
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Casuarina",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Darwin City",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Driver",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Driver",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Gunn",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Gunn",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Larrakeyah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 17
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 13
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Mitchell",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Moil",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Moulden",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Nakara",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 11
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Palmerston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Parap",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Rosebery",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Gardens",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Tiwi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Tiwi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wagaman",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wanguri",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wanguri",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Winnellie",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Winnellie",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Alawa",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Alawa",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Anula",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bakewell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bakewell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bayview",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bayview",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 9
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bellamack",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bellamack",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 10
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Berrimah",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Berrimah",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Casuarina",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Casuarina",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Coconut Grove",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Coonawarra",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Darwin City",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Darwin City",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Durack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Farrar",
+    "ResultFlag": "LOW",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Gray",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Gray",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Hidden Valley",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Jingili",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Jingili",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Johnston",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Johnston",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Johnston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Karama",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Leanyer",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lee Point",
+    "ResultFlag": "HIGH",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lee Point",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lee Point",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Ludmilla",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lyons",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lyons",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Lyons",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Malak",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Malak",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Marrara",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Marrara",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Marrara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Millner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Millner",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Millner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Mitchell",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Mitchell",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Moulden",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Muirhead",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Nakara",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 15
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Palmerston",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 5
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Parap",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Parap",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Rapid Creek",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "The Gardens",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "The Gardens",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 6
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "The Narrows",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Wagaman",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Wagaman",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Winnellie",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 3
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woodroffe",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woolner",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woolner",
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Woolner",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 8
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Wulagi",
+    "ResultFlag": "HIGH",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Wulagi",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Wulagi",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 7
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Suburb": "Zuccoli",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Bellamack",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Fannie Bay",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Farrar",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Farrar",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Gunn",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Karama",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Nightcliff",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Rosebery",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "The Narrows",
+    "ResultFlag": "LOW",
+    "ResultCount": 1
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "The Narrows",
+    "ResultFlag": "NORMAL",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Suburb": "Winnellie",
+    "ResultFlag": "HIGH",
+    "ResultCount": 1
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "Year": 2025,
+    "Month": 1,
+    "ResultFlag": "HIGH",
+    "ResultCount": 31
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "ResultFlag": "LOW",
+    "ResultCount": 19
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 211
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "ResultFlag": "HIGH",
+    "ResultCount": 35
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "ResultFlag": "LOW",
+    "ResultCount": 17
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 195
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "ResultFlag": "HIGH",
+    "ResultCount": 31
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "ResultFlag": "LOW",
+    "ResultCount": 25
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 185
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "ResultFlag": "HIGH",
+    "ResultCount": 44
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "ResultFlag": "LOW",
+    "ResultCount": 23
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 184
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "ResultFlag": "HIGH",
+    "ResultCount": 47
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "ResultFlag": "LOW",
+    "ResultCount": 35
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 265
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "ResultFlag": "HIGH",
+    "ResultCount": 39
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "ResultFlag": "LOW",
+    "ResultCount": 34
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 183
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "ResultFlag": "HIGH",
+    "ResultCount": 40
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "ResultFlag": "LOW",
+    "ResultCount": 19
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 196
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "ResultFlag": "HIGH",
+    "ResultCount": 36
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "ResultFlag": "LOW",
+    "ResultCount": 27
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 196
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "ResultFlag": "HIGH",
+    "ResultCount": 40
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "ResultFlag": "LOW",
+    "ResultCount": 23
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 168
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "ResultFlag": "HIGH",
+    "ResultCount": 39
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "ResultFlag": "LOW",
+    "ResultCount": 21
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 194
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "ResultFlag": "HIGH",
+    "ResultCount": 48
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "ResultFlag": "LOW",
+    "ResultCount": 29
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 207
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "ResultFlag": "HIGH",
+    "ResultCount": 34
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "ResultFlag": "LOW",
+    "ResultCount": 27
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 184
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "ResultFlag": "HIGH",
+    "ResultCount": 4
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "ResultFlag": "LOW",
+    "ResultCount": 2
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "ResultFlag": "NORMAL",
+    "ResultCount": 13
+  }
+]

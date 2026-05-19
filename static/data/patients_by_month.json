@@ -1,0 +1,7431 @@
+[
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Patients": [
+      {
+        "PatientID": 3010,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3012,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3014,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3019,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3024,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3033,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3035,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3038,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3040,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3043,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3045,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3055,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3058,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3059,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3065,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Stuart Park",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3068,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3069,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3070,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3076,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3085,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3089,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3091,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3095,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3097,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3099,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3100,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3102,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3103,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3109,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3113,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3116,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3117,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3119,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3120,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3123,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3125,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3137,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3138,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3139,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3144,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3149,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3150,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3156,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3160,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3165,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3166,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3169,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3175,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3194,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3199,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3200,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3201,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3203,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3214,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3219,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3220,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3223,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3225,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3226,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3232,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3234,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3244,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3246,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3250,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3251,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3252,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3257,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3260,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3262,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3263,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3265,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3272,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3287,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3288,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3290,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3291,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3292,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3294,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3303,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3304,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3306,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3308,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3310,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3316,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3317,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Patients": [
+      {
+        "PatientID": 3001,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3003,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3006,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3014,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3022,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3023,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3026,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3040,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3047,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3052,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3054,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3072,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3078,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3079,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3080,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3090,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3094,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3102,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3103,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3106,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3108,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3121,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3123,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3126,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3127,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3128,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3130,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3137,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3138,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3140,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3141,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3149,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3151,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3154,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3168,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3169,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3170,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3171,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3174,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3176,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3185,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3187,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Driver",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3192,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3193,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3201,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3205,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3208,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3213,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3216,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3219,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3220,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3227,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3231,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3233,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3235,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3236,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3237,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3239,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3247,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3248,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3249,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3252,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3259,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3261,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3264,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3267,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3271,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3273,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3278,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3279,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3280,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3286,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3289,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3296,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3297,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3300,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3301,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3302,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3305,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3307,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3309,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3312,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3314,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3316,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3318,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3319,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Patients": [
+      {
+        "PatientID": 3001,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3002,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3005,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3011,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3020,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3024,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3027,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3029,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3033,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3035,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3037,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3041,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3044,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3049,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3051,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3052,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3054,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3055,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3056,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3059,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3072,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3079,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3080,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3082,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3083,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3084,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3088,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3090,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3097,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3098,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3099,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3100,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3101,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3103,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3104,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3107,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3108,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3113,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3114,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3118,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3119,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3128,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3129,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3135,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3143,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3145,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3148,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3151,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3163,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3164,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3166,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3172,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3179,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3183,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3185,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3186,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3189,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3194,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3200,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3211,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3221,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3236,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3237,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3246,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3250,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3256,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3262,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3266,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3276,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3284,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3285,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3286,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3289,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3291,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3295,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3309,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3315,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3317,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3319,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Patients": [
+      {
+        "PatientID": 3005,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3008,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3009,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3012,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3017,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3021,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3024,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3026,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3037,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3039,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3045,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3046,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3047,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3056,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3062,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3065,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Stuart Park",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3067,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3068,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3069,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3072,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3073,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3074,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3076,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3083,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3088,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3096,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3101,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3106,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3109,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3111,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3113,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3115,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3122,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3133,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3134,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3135,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3137,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3145,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3150,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3153,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3156,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3157,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3159,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3161,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3163,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3164,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3170,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3172,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3175,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3177,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3180,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3181,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3182,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3193,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3196,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3197,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3201,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3202,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3204,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3211,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3214,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3233,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3234,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3235,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3238,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3254,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3260,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3263,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3268,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3273,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3274,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3278,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3280,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3287,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3298,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3304,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3305,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3306,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3309,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3310,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3314,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3317,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Patients": [
+      {
+        "PatientID": 3002,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3004,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3005,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3007,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3010,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3013,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3014,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3028,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3036,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3039,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3048,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3053,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3054,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3056,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3061,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3063,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3064,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3065,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Stuart Park",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3066,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3070,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3075,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3078,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3080,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3082,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3085,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3089,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3093,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3094,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3096,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3098,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3102,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3104,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3107,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3109,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3110,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3111,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3112,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3113,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3117,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3119,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3121,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3124,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3126,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3131,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3142,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3143,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3144,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3147,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3151,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3152,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3157,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3158,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3162,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3164,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3169,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3172,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3173,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3174,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3175,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3178,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3181,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3183,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3188,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3189,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3193,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3199,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3201,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3207,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3213,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3214,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3216,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3217,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3218,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3219,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3221,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3222,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3226,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3232,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3233,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3236,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3237,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3242,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3249,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3251,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3260,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3261,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3263,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3266,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3271,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3272,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3278,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3282,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3287,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3291,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3295,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3296,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3304,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3313,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3314,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3315,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3317,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3320,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 6,
+    "Patients": [
+      {
+        "PatientID": 3001,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3007,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3010,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3012,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3014,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3015,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3016,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3017,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3019,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3029,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3030,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3032,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3033,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3040,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3043,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3044,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3045,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3056,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3058,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3062,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3063,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3074,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3084,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3087,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3089,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3093,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3099,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3101,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3103,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3118,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3120,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3123,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3126,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3128,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3129,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3131,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3139,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3142,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3153,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3170,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3175,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3176,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3182,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3183,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3184,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3185,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3188,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3192,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3198,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3199,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3200,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3207,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3217,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3223,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3226,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3227,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3228,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3232,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3235,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3237,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3242,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3247,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3253,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3255,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3267,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3269,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3273,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3280,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3283,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3288,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3290,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3292,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3294,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3295,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3297,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3299,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3307,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3309,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3310,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3311,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Driver",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Patients": [
+      {
+        "PatientID": 3010,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3013,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3015,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3019,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3020,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3021,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3034,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3035,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3041,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3059,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3062,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3064,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3065,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Stuart Park",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3074,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3079,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3085,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3095,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3098,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3107,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3110,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3114,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3116,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3118,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3121,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3123,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3127,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3130,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3131,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3132,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3134,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3138,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3140,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3146,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3150,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3153,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3159,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3162,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3163,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3173,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3193,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3196,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3197,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3198,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3206,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3207,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3211,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3213,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3218,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3219,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3226,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3231,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3236,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3237,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3241,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3245,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3246,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3248,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3250,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3257,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3259,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3262,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3271,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3275,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3277,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3278,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3280,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3282,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3289,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3292,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3293,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3294,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3298,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3301,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3303,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3305,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3308,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3312,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3315,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3318,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3319,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 8,
+    "Patients": [
+      {
+        "PatientID": 3001,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3002,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3008,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3009,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3015,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3016,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3018,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3022,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3023,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3037,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3039,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3043,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3059,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3064,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3070,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3071,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3078,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3079,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3081,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3084,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3085,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3091,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3101,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3102,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3105,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3106,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3112,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3114,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3115,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3119,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3126,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3129,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3133,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3141,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3143,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3144,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3152,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3155,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3156,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3165,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3167,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3176,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3177,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3181,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3184,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3187,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Driver",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3188,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3192,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3193,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3195,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3197,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3199,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3202,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3205,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3208,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3210,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3214,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3220,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3221,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3224,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3226,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3229,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3230,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3248,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3249,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3250,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3257,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3258,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3260,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3268,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3270,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3272,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3274,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3277,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3279,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3283,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3284,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3292,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3294,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3297,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3301,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3302,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3315,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Patients": [
+      {
+        "PatientID": 3001,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3003,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3005,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3006,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3009,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3016,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3030,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3031,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3033,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3036,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3037,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3038,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3040,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3041,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3042,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3043,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3051,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3060,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3062,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3074,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3080,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3084,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3090,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3103,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3114,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3115,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3122,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3128,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3136,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3142,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3145,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3146,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3151,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3152,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3153,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3154,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3158,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3162,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3163,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3166,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3168,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3170,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3173,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3182,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3183,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3192,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3195,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3200,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3201,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3206,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3207,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3208,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3210,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3213,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3217,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3229,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3238,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3241,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3251,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3254,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3264,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3265,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3286,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3287,
+        "Gender": "X",
+        "AgeBand": "35-64",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3298,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3302,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3303,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3308,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3310,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3314,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3318,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Patients": [
+      {
+        "PatientID": 3004,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3008,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3013,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3016,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3018,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3022,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3023,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3026,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3027,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3028,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3030,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3032,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3033,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3035,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3044,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3049,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3051,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3068,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3070,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3075,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3076,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3082,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3087,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3104,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3105,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3114,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3116,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3118,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3122,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3136,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3140,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3148,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3159,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3162,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3164,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3165,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3167,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3168,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3179,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3183,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3186,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3191,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3194,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3195,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3204,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3206,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3208,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3211,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3215,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3227,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3229,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3232,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3234,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3235,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3239,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3240,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3242,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3247,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3249,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3255,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3258,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3270,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3273,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3274,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3275,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3277,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3278,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3285,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3290,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3293,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3295,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3299,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3302,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3304,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3305,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3313,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3318,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3320,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Patients": [
+      {
+        "PatientID": 3003,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3010,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3018,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3025,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3027,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3034,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3036,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3040,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3041,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Larrakeyah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3043,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3050,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3052,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3054,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3057,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3058,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3064,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3066,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3073,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3076,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3081,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3083,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3086,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3087,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3088,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3090,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Wanguri",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3095,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3097,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3098,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3108,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3117,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3120,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3121,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3125,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3127,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3136,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3137,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3140,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3141,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3142,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3147,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3150,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3152,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3156,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3157,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3161,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3164,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3168,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3171,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3173,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3176,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3177,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3179,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3182,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3184,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3187,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Driver",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3196,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3203,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3207,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3209,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3210,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3213,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3218,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3221,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3222,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3224,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3230,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3231,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3238,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3239,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3241,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3242,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Tiwi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3243,
+        "Gender": "X",
+        "AgeBand": "18-34",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3244,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3254,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3261,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3264,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3265,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3266,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3270,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3275,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3280,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Moil",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3285,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3290,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3295,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3299,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3307,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3310,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3313,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3318,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Brinkin",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3320,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      }
+    ]
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Patients": [
+      {
+        "PatientID": 3002,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3005,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3008,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3009,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3013,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3016,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3017,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3020,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3022,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3023,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Rosebery",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3024,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Anula",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3027,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3030,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3036,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3037,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3055,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bakewell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3056,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3059,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3063,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3066,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3069,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Winnellie",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3073,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3077,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3087,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3091,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Wagaman",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3092,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3093,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3095,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3096,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3100,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Darwin City",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3102,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3107,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3110,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Zuccoli",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3112,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3115,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3120,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Parap",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3125,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Moulden",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3126,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3128,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3130,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Gunn",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3133,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3135,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Nightcliff",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3137,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Woolner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3140,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Rapid Creek",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3143,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3145,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Muirhead",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3148,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3149,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3157,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3158,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Ludmilla",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3161,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3168,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Casuarina",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3171,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Wulagi",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3172,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3177,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Jingili",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3190,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "The Gardens",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3196,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Coonawarra",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3197,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Lee Point",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3203,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Alawa",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3205,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Karama",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3210,
+        "Gender": "M",
+        "AgeBand": "65+",
+        "Suburb": "Johnston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3212,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Bayview",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3215,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Berrimah",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3230,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Nakara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3236,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Woodroffe",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3238,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Durack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3250,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Farrar",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3251,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Bellamack",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3274,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Fannie Bay",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3276,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3281,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "Gray",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3288,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Marrara",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3289,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Leanyer",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3291,
+        "Gender": "F",
+        "AgeBand": "65+",
+        "Suburb": "Malak",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3300,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Lyons",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3308,
+        "Gender": "F",
+        "AgeBand": "18-34",
+        "Suburb": "Millner",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3309,
+        "Gender": "F",
+        "AgeBand": "35-64",
+        "Suburb": "Coconut Grove",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3312,
+        "Gender": "M",
+        "AgeBand": "18-34",
+        "Suburb": "Hidden Valley",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3313,
+        "Gender": "F",
+        "AgeBand": "0-17",
+        "Suburb": "Mitchell",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3317,
+        "Gender": "M",
+        "AgeBand": "0-17",
+        "Suburb": "Palmerston",
+        "Postcode": ""
+      },
+      {
+        "PatientID": 3320,
+        "Gender": "M",
+        "AgeBand": "35-64",
+        "Suburb": "The Narrows",
+        "Postcode": ""
+      }
+    ]
+  }
+]

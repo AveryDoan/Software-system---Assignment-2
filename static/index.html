@@ -1,0 +1,776 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MDW Static Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+  </head>
+  <body>
+    <main class="container">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Medical Data Warehouse</p>
+          <h1>Analytics Dashboard (Static)</h1>
+          <p class="subhead">Static demo using precomputed JSON from CSVs.</p>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center;">
+          <label for="year-select" style="font-weight:600;color:var(--muted);">Year</label>
+          <select id="year-select"></select>
+          <button id="rebuild-btn">Rebuild Data</button>
+        </div>
+      </header>
+
+      <section class="cards">
+        <article class="card">
+          <h2>Patients</h2>
+          <p id="patients-count">—</p>
+        </article>
+        <article class="card">
+          <h2>Encounters</h2>
+          <p id="encounters-count">—</p>
+        </article>
+        <article class="card">
+          <h2>Lab Results</h2>
+          <p id="labs-count">—</p>
+        </article>
+        <article class="card">
+          <h2>Time Rows</h2>
+          <p id="time-count">—</p>
+        </article>
+      </section>
+
+      <section class="grid">
+        <article class="panel">
+          <h3>Encounters by Month</h3>
+          <div style="height:220px">
+            <canvas id="encountersChart" style="width:100%;height:100%"></canvas>
+          </div>
+        </article>
+
+        <article class="panel">
+          <h3>Average Length of Stay by Age Band</h3>
+          <div style="height:220px">
+            <canvas id="losChart" style="width:100%;height:100%"></canvas>
+          </div>
+        </article>
+
+        <article class="panel panel-wide">
+          <h3>Lab Result Flag Distribution by Month</h3>
+          <div style="height:360px">
+            <canvas id="labsChart" style="width:100%;height:100%"></canvas>
+          </div>
+        </article>
+      </section>
+
+      <section class="suburb-layout">
+        <aside class="panel suburb-filters">
+          <h3>Suburb Map Filters</h3>
+          <label for="map-year-select">Year</label>
+          <select id="map-year-select"></select>
+
+          <label for="map-month-select">Month</label>
+          <select id="map-month-select">
+            <option value="ALL">All months</option>
+            <option value="1">January</option>
+            <option value="2">February</option>
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+            <option value="7">July</option>
+            <option value="8">August</option>
+            <option value="9">September</option>
+            <option value="10">October</option>
+            <option value="11">November</option>
+            <option value="12">December</option>
+          </select>
+
+          <label for="map-metric-select">Metric</label>
+          <select id="map-metric-select">
+            <option value="encounters">Encounters</option>
+            <option value="labs_total">Lab Flags Total</option>
+            <option value="labs_high">Lab HIGH</option>
+            <option value="labs_normal">Lab NORMAL</option>
+            <option value="labs_low">Lab LOW</option>
+          </select>
+
+          <label for="map-suburb-select">Suburb</label>
+          <select id="map-suburb-select">
+            <option value="ALL">All suburbs</option>
+          </select>
+        </aside>
+
+        <section class="panel map-panel">
+          <div id="suburb-map"></div>
+        </section>
+
+        <aside class="panel detail-panel">
+          <h3>Selected Suburb</h3>
+          <div id="suburb-detail-content">
+            <p>Click a suburb on the map to view details and trends.</p>
+          </div>
+        </aside>
+      </section>
+
+      <section class="panel">
+        <h3>Patient sample</h3>
+        <div style="display:flex;gap:8px;align-items:center;margin-bottom:8px;">
+          <input id="patient-search" placeholder="Search PatientID" />
+          <button id="patient-refresh">Refresh</button>
+        </div>
+        <div style="overflow:auto;max-height:240px;">
+          <table style="width:100%;border-collapse:collapse">
+            <thead>
+              <tr>
+                <th style="text-align:left">PatientID</th>
+                <th>Gender</th>
+                <th>AgeBand</th>
+                <th>Postcode</th>
+              </tr>
+            </thead>
+            <tbody id="patients-table-body"></tbody>
+          </table>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center;margin-top:8px;">
+          <button id="patients-prev">Prev</button>
+          <div id="patients-page-info" style="font-family:IBM Plex Mono, monospace;color:var(--ink-soft)"></div>
+          <button id="patients-next">Next</button>
+        </div>
+      </section>
+
+      <section id="patient-details" class="panel" style="display:none;margin-top:12px">
+        <h3 id="patient-details-title">Patient details</h3>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:start;">
+          <div style="height:220px">
+            <canvas id="patientEncountersChart" style="width:100%;height:100%"></canvas>
+          </div>
+          <div style="height:220px">
+            <canvas id="patientLabsChart" style="width:100%;height:100%"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <p id="status" class="status"></p>
+    </main>
+
+    <script>
+      const dataPath = "data/"; // relative to this file
+
+      async function fetchJson(file) {
+        const res = await fetch(file);
+        if (!res.ok) throw new Error(`${file} ${res.status}`);
+        return res.json();
+      }
+
+      function monthLabel(year, month) {
+        return `${year}-${String(month).padStart(2, "0")}`;
+      }
+
+      function monthName(month) {
+        const date = new Date(2020, Number(month) - 1, 1);
+        return date.toLocaleString("en-AU", { month: "long" });
+      }
+
+      function normalizeName(name) {
+        return String(name || "").trim().toUpperCase();
+      }
+
+      function getColor(value) {
+        if (value == null) return "#d5dfd6";
+        return value > 80
+          ? "#7f0000"
+          : value > 50
+            ? "#b30000"
+            : value > 30
+              ? "#e34a33"
+              : value > 15
+                ? "#fc8d59"
+                : value > 5
+                  ? "#fdbb84"
+                  : value > 0
+                    ? "#fdd49e"
+                    : "#f4f7ea";
+      }
+
+      function renderSummary(s) {
+        document.getElementById("patients-count").textContent = s.Patients;
+        document.getElementById("encounters-count").textContent = s.Encounters;
+        document.getElementById("labs-count").textContent = s.LabResults;
+        document.getElementById("time-count").textContent = s.TimeRows;
+      }
+
+      async function loadYears() {
+        const years = await fetchJson(dataPath + "years.json");
+        const ebm = await fetchJson(dataPath + "encounters_by_month.json");
+        const ebmYears = Array.from(new Set(ebm.map((r) => String(r.Year)))).sort().reverse();
+        const sel = document.getElementById("year-select");
+        sel.innerHTML = "";
+        years.forEach((y) => {
+          const opt = document.createElement("option");
+          opt.value = y; opt.textContent = y; sel.appendChild(opt);
+        });
+        // prefer latest year that has encounters
+        const defaultYear = ebmYears.length ? ebmYears[0] : (years[0] || "");
+        if (defaultYear) sel.value = defaultYear;
+        sel.addEventListener("change", () => loadCharts(sel.value));
+        return sel.value || years[0];
+      }
+
+      let encountersChart = null;
+      let losChart = null;
+      let labsChart = null;
+
+      const suburbState = {
+        year: null,
+        month: "ALL",
+        metric: "encounters",
+        suburb: "ALL",
+      };
+      const suburbData = {
+        geojson: null,
+        encountersBySuburb: [],
+        encountersBySuburbMonth: [],
+        labFlagsBySuburb: [],
+        labFlagsBySuburbMonth: [],
+      };
+      let suburbMap = null;
+      let suburbLayer = null;
+      let suburbInfoControl = null;
+      let suburbLegendControl = null;
+      let selectedSuburbName = null;
+      const DARWIN_BOUNDS = [
+        [-12.62, 130.78],
+        [-12.30, 131.08],
+      ];
+
+      function suburbStyleForValue(value) {
+        return {
+          fillColor: getColor(value),
+          weight: 1,
+          opacity: 1,
+          color: "#435a4f",
+          dashArray: "2",
+          fillOpacity: 0.75,
+        };
+      }
+
+      function destroy(chart) {
+        if (chart && typeof chart.destroy === 'function') chart.destroy();
+      }
+
+      async function loadCharts(year) {
+        const [summary, ebm, los, labs] = await Promise.all([
+          fetchJson(dataPath + "summary.json"),
+          fetchJson(dataPath + "encounters_by_month.json"),
+          fetchJson(dataPath + "avg_los_by_age_band.json"),
+          fetchJson(dataPath + "lab_flags_by_month.json"),
+        ]);
+        renderSummary(summary);
+
+        let enc = ebm.filter((r) => String(r.Year) === String(year)).sort((a,b)=> a.Month - b.Month);
+        // if selected year has no encounter rows, fall back to the latest year that does
+        if (!enc.length) {
+          const ebmYears = Array.from(new Set(ebm.map((r) => String(r.Year)))).sort().reverse();
+          const fallback = ebmYears.length ? ebmYears[0] : String(year);
+          document.getElementById("year-select").value = fallback;
+          enc = ebm.filter((r) => String(r.Year) === fallback).sort((a,b)=> a.Month - b.Month);
+          year = fallback;
+        }
+        // update encounters summary for the selected year
+        const encountersTotal = enc.reduce((s,r)=> s + (Number(r.EncounterCount)||0), 0);
+        document.getElementById("encounters-count").textContent = encountersTotal;
+
+        destroy(encountersChart);
+        destroy(losChart);
+        destroy(labsChart);
+
+        if (!enc.length) {
+          document.getElementById('status').textContent = 'No encounter data available for the selected year.';
+        } else {
+          document.getElementById('status').textContent = '';
+        }
+
+        encountersChart = new Chart(document.getElementById("encountersChart"), {
+          type: "bar",
+          data: { labels: enc.map((r) => monthLabel(r.Year, r.Month)), datasets: [{ label: "Encounters", data: enc.map((r) => r.EncounterCount), backgroundColor: "#0f2a43" }] },
+          options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } }, plugins: { legend: { display: false } } },
+        });
+
+        // make bars clickable to show patients seen that month
+        const canvas = document.getElementById('encountersChart');
+        canvas.onclick = function (evt) {
+          const points = encountersChart.getElementsAtEventForMode(evt, 'index', { intersect: true }, false);
+          if (!points.length) return;
+          const first = points[0];
+          const idx = first.index;
+          const row = enc[idx];
+          if (row) showPatientsForMonth(row.Year, row.Month);
+        };
+
+        // Ensure age bands are in fixed order
+        const ageOrder = ["0-17", "18-34", "35-64", "65+"];
+        const orderedLos = ageOrder.map((band) => {
+          const row = los.find((r) => r.AgeBand === band);
+          return { AgeBand: band, AvgLengthOfStay: row ? Number(row.AvgLengthOfStay) : 0 };
+        });
+        const losValues = orderedLos.map((r) => r.AvgLengthOfStay);
+        const minLos = Math.min(...losValues);
+        const maxLos = Math.max(...losValues);
+        const padding = Math.max(0.5, (maxLos - minLos) * 0.25);
+
+        losChart = new Chart(document.getElementById("losChart"), {
+          type: "line",
+          data: { labels: orderedLos.map((r) => r.AgeBand), datasets: [{ label: "Avg LOS", data: losValues, borderColor: "#f25f5c", backgroundColor: "rgba(242,95,92,0.12)", fill: true, pointRadius: 4 }] },
+          options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: false, suggestedMin: Math.floor(minLos - padding), suggestedMax: Math.ceil(maxLos + padding) } }, plugins: { legend: { display: true } } },
+        });
+
+        const labsForYear = labs.filter((r) => String(r.Year) === String(year));
+        // build sorted month keys like '2025-01'
+        const monthKeys = Array.from(new Set(labsForYear.map((r) => `${r.Year}-${String(r.Month).padStart(2,'0')}`)));
+        monthKeys.sort();
+        const labels = monthKeys.map((k) => k);
+        const flags = ["LOW", "NORMAL", "HIGH"];
+        const colors = { LOW: "#f25f5c", NORMAL: "#2ec4b6", HIGH: "#f6ae2d" };
+        const datasets = flags.map((flag) => {
+          const data = labels.map((label) => {
+            const [yr, mo] = label.split('-');
+            const row = labsForYear.find((r) => String(r.Year) === yr && String(r.Month).padStart(2,'0') === mo && r.ResultFlag === flag);
+            return row ? row.ResultCount : 0;
+          });
+          return { label: flag, data, backgroundColor: colors[flag] };
+        });
+
+        labsChart = new Chart(document.getElementById("labsChart"), { type: "bar", data: { labels, datasets }, options: { responsive: true, maintainAspectRatio: false, scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true } } } });
+
+        if (!suburbState.year) {
+          suburbState.year = Number(year);
+          document.getElementById("map-year-select").value = String(year);
+        }
+        refreshSuburbMap();
+      }
+
+      function detectGeoNameProperty(geojsonData) {
+        const sampleProps = geojsonData.features?.[0]?.properties ?? {};
+        const candidateKeys = ["name", "nt_local_2", "suburb_name", "locality", "loc_name"];
+        for (const key of candidateKeys) {
+          if (sampleProps[key] != null) return key;
+        }
+        return "name";
+      }
+
+      function injectFeatureNameProperty(geojsonData) {
+        const sourceKey = detectGeoNameProperty(geojsonData);
+        geojsonData.features.forEach((feature) => {
+          const rawValue = feature.properties?.[sourceKey] ?? "UNKNOWN";
+          feature.properties.name = String(rawValue).trim();
+        });
+      }
+
+      function createSuburbControls() {
+        suburbInfoControl = L.control({ position: "topright" });
+        suburbInfoControl.onAdd = () => {
+          const div = L.DomUtil.create("div", "info-box leaflet-control");
+          div.innerHTML = "<strong>Hover a suburb</strong><br/>Count: -";
+          suburbInfoControl._div = div;
+          return div;
+        };
+        suburbInfoControl.addTo(suburbMap);
+
+        suburbLegendControl = L.control({ position: "bottomright" });
+        suburbLegendControl.onAdd = () => {
+          const div = L.DomUtil.create("div", "legend-box leaflet-control");
+          const bins = [0, 5, 15, 30, 50, 80];
+          let html = "<strong>Recorded count</strong>";
+          bins.forEach((start, idx) => {
+            const end = bins[idx + 1];
+            const label = end ? `${start + 1}-${end}` : `${start + 1}+`;
+            html += `<div class=\"legend-row\"><span class=\"legend-swatch\" style=\"background:${getColor(start + 1)}\"></span><span>${label}</span></div>`;
+          });
+          html += `<div class=\"legend-row\"><span class=\"legend-swatch\" style=\"background:${getColor(0)}\"></span><span>0</span></div>`;
+          div.innerHTML = html;
+          return div;
+        };
+        suburbLegendControl.addTo(suburbMap);
+      }
+
+      function updateSuburbInfo(feature) {
+        if (!suburbInfoControl || !suburbInfoControl._div) return;
+        if (!feature) {
+          suburbInfoControl._div.innerHTML = "<strong>Hover a suburb</strong><br/>Count: -";
+          return;
+        }
+        const value = feature.properties.__value ?? 0;
+        suburbInfoControl._div.innerHTML = `<strong>${feature.properties.name}</strong><br/>Count: ${value}`;
+      }
+
+      function buildLookup() {
+        const lookup = {};
+        const year = Number(suburbState.year);
+        const month = suburbState.month;
+        const metric = suburbState.metric;
+
+        if (metric === "encounters") {
+          const rows = suburbData.encountersBySuburbMonth.filter((r) => {
+            if (Number(r.Year) !== year) return false;
+            if (month !== "ALL" && Number(r.Month) !== Number(month)) return false;
+            return true;
+          });
+          rows.forEach((r) => {
+            const key = normalizeName(r.Suburb);
+            lookup[key] = (lookup[key] || 0) + Number(r.EncounterCount || 0);
+          });
+          return lookup;
+        }
+
+        const rows = suburbData.labFlagsBySuburbMonth.filter((r) => {
+          if (Number(r.Year) !== year) return false;
+          if (month !== "ALL" && Number(r.Month) !== Number(month)) return false;
+          if (metric === "labs_high" && r.ResultFlag !== "HIGH") return false;
+          if (metric === "labs_normal" && r.ResultFlag !== "NORMAL") return false;
+          if (metric === "labs_low" && r.ResultFlag !== "LOW") return false;
+          return true;
+        });
+        rows.forEach((r) => {
+          const key = normalizeName(r.Suburb);
+          lookup[key] = (lookup[key] || 0) + Number(r.ResultCount || 0);
+        });
+        return lookup;
+      }
+
+      function updateSuburbDetail(name, value, lookup) {
+        const panel = document.getElementById("suburb-detail-content");
+        const ranking = Object.entries(lookup).sort((a, b) => b[1] - a[1]);
+        const localityCount = ranking.length;
+        const total = ranking.reduce((sum, [, v]) => sum + v, 0);
+
+        if (!name || name === "ALL") {
+          const top = ranking.slice(0, 5)
+            .map(([n, v], idx) => `<li><span>#${idx + 1} ${n}</span><strong>${v}</strong></li>`)
+            .join("");
+          panel.innerHTML = `
+            <p><strong>All suburbs total</strong></p>
+            <p>Current total count: <strong>${total}</strong></p>
+            <p>Suburbs with records: <strong>${localityCount}</strong></p>
+            <h3>Top suburbs in view</h3>
+            <ul class="trend-list">${top}</ul>
+          `;
+          return;
+        }
+
+        const rankPos = ranking.findIndex(([n]) => n === normalizeName(name));
+        const rankLabel = rankPos >= 0 ? `${rankPos + 1} / ${localityCount}` : "n/a";
+
+        const seriesRowsSource = suburbState.metric === "encounters"
+          ? suburbData.encountersBySuburbMonth
+          : suburbData.labFlagsBySuburbMonth;
+        const series = Array.from({ length: 12 }, (_, idx) => {
+          const m = idx + 1;
+          let v = 0;
+          seriesRowsSource.forEach((r) => {
+            if (Number(r.Year) !== Number(suburbState.year)) return;
+            if (Number(r.Month) !== m) return;
+            if (normalizeName(r.Suburb) !== normalizeName(name)) return;
+            if (suburbState.metric === "labs_high" && r.ResultFlag !== "HIGH") return;
+            if (suburbState.metric === "labs_normal" && r.ResultFlag !== "NORMAL") return;
+            if (suburbState.metric === "labs_low" && r.ResultFlag !== "LOW") return;
+            const amount = suburbState.metric === "encounters" ? Number(r.EncounterCount || 0) : Number(r.ResultCount || 0);
+            v += amount;
+          });
+          return { month: m, value: v };
+        });
+
+        const maxValue = Math.max(...series.map((s) => s.value), 1);
+        const chartHtml = series.map((item) => {
+          const heightPct = Math.round((item.value / maxValue) * 100);
+          const label = monthName(item.month).slice(0, 3);
+          return `<div class="trend-bar-wrap" title="${monthName(item.month)}: ${item.value}"><div class="trend-bar-rail"><div class="trend-bar" style="height:${heightPct}%"><span class="trend-bar-value">${item.value}</span></div></div><span class="trend-bar-label">${label}</span></div>`;
+        }).join("");
+
+        panel.innerHTML = `
+          <p><strong>${name}</strong></p>
+          <p>Current count: <strong>${value}</strong></p>
+          <p>Period: ${suburbState.year} / ${suburbState.month === "ALL" ? "All months" : monthName(suburbState.month)}</p>
+          <p>Suburb share: <strong>${total > 0 ? ((value / total) * 100).toFixed(1) : "0.0"}%</strong></p>
+          <p>Map ranking: <strong>${rankLabel}</strong></p>
+          <h3>Monthly trend chart (${suburbState.year})</h3>
+          <div class="trend-chart">${chartHtml}</div>
+        `;
+      }
+
+      function zoomToSuburb(name) {
+        if (!suburbLayer || !name || name === "ALL") {
+          if (suburbMap) suburbMap.fitBounds(DARWIN_BOUNDS, { padding: [20, 20] });
+          return;
+        }
+        suburbLayer.eachLayer((layer) => {
+          if (normalizeName(layer.feature?.properties?.name) === normalizeName(name)) {
+            suburbMap.fitBounds(layer.getBounds(), { padding: [20, 20], maxZoom: 12 });
+          }
+        });
+      }
+
+      function refreshSuburbMap() {
+        if (!suburbMap || !suburbLayer || !suburbState.year) return;
+        const lookup = buildLookup();
+        suburbLayer.eachLayer((layer) => {
+          const key = normalizeName(layer.feature.properties.name);
+          const value = lookup[key] || 0;
+          layer.feature.properties.__value = value;
+          layer.setStyle(suburbStyleForValue(value));
+          layer.setPopupContent(`<strong>${layer.feature.properties.name}</strong><br/>Count: ${value}`);
+        });
+        updateSuburbDetail(selectedSuburbName || "ALL", selectedSuburbName ? (lookup[normalizeName(selectedSuburbName)] || 0) : 0, lookup);
+        zoomToSuburb(suburbState.suburb);
+      }
+
+      function bindSuburbFilterEvents() {
+        document.getElementById("map-year-select").addEventListener("change", (e) => {
+          suburbState.year = Number(e.target.value);
+          refreshSuburbMap();
+        });
+        document.getElementById("map-month-select").addEventListener("change", (e) => {
+          suburbState.month = e.target.value;
+          refreshSuburbMap();
+        });
+        document.getElementById("map-metric-select").addEventListener("change", (e) => {
+          suburbState.metric = e.target.value;
+          refreshSuburbMap();
+        });
+        document.getElementById("map-suburb-select").addEventListener("change", (e) => {
+          suburbState.suburb = e.target.value;
+          selectedSuburbName = e.target.value === "ALL" ? null : e.target.value;
+          refreshSuburbMap();
+        });
+      }
+
+      async function initSuburbMap(defaultYear) {
+        const [geojson, ebs, ebsm, lfbs, lfbsm, years, patientSuburbs] = await Promise.all([
+          fetchJson(dataPath + "suburb-10-nt.geojson"),
+          fetchJson(dataPath + "encounters_by_suburb.json"),
+          fetchJson(dataPath + "encounters_by_suburb_month.json"),
+          fetchJson(dataPath + "lab_flags_by_suburb.json"),
+          fetchJson(dataPath + "lab_flags_by_suburb_month.json"),
+          fetchJson(dataPath + "years.json"),
+          fetchJson(dataPath + "patient_suburbs.json"),
+        ]);
+
+        suburbData.geojson = geojson;
+        suburbData.encountersBySuburb = ebs;
+        suburbData.encountersBySuburbMonth = ebsm;
+        suburbData.labFlagsBySuburb = lfbs;
+        suburbData.labFlagsBySuburbMonth = lfbsm;
+
+        injectFeatureNameProperty(suburbData.geojson);
+
+        suburbMap = L.map("suburb-map", {
+          zoomControl: true,
+          maxBounds: DARWIN_BOUNDS,
+          maxBoundsViscosity: 1.0,
+          minZoom: 10,
+        });
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 12,
+          attribution: "&copy; OpenStreetMap contributors",
+        }).addTo(suburbMap);
+
+        suburbLayer = L.geoJson(suburbData.geojson, {
+          style: () => suburbStyleForValue(0),
+          onEachFeature: (feature, layer) => {
+            layer.on({
+              mouseover: (event) => {
+                const l = event.target;
+                l.setStyle({ weight: 2, color: "#13231b", dashArray: "", fillOpacity: 0.9 });
+                l.bringToFront();
+                updateSuburbInfo(l.feature);
+              },
+              mouseout: (event) => {
+                const l = event.target;
+                const value = Number(l.feature?.properties?.__value || 0);
+                l.setStyle(suburbStyleForValue(value));
+                updateSuburbInfo();
+              },
+              click: (event) => {
+                const l = event.target;
+                suburbMap.fitBounds(l.getBounds());
+                selectedSuburbName = l.feature.properties.name;
+                suburbState.suburb = selectedSuburbName;
+                document.getElementById("map-suburb-select").value = selectedSuburbName;
+                const lookup = buildLookup();
+                updateSuburbDetail(selectedSuburbName, lookup[normalizeName(selectedSuburbName)] || 0, lookup);
+              },
+            });
+            layer.bindPopup(`<strong>${feature.properties.name}</strong><br/>Count: 0`);
+          },
+        }).addTo(suburbMap);
+
+        suburbMap.fitBounds(DARWIN_BOUNDS, { padding: [20, 20] });
+        createSuburbControls();
+
+        const yearSelect = document.getElementById("map-year-select");
+        yearSelect.innerHTML = "";
+        years.forEach((year) => {
+          const opt = document.createElement("option");
+          opt.value = String(year);
+          opt.textContent = String(year);
+          yearSelect.appendChild(opt);
+        });
+        suburbState.year = Number(defaultYear || years[0]);
+        yearSelect.value = String(suburbState.year);
+
+        const suburbSelect = document.getElementById("map-suburb-select");
+        const geoNames = new Set(suburbData.geojson.features.map((f) => normalizeName(f.properties.name)));
+        const names = (Array.isArray(patientSuburbs) ? patientSuburbs : [])
+          .map((name) => String(name).trim())
+          .filter((name) => name && geoNames.has(normalizeName(name)))
+          .sort();
+        names.forEach((name) => {
+          const opt = document.createElement("option");
+          opt.value = name;
+          opt.textContent = name;
+          suburbSelect.appendChild(opt);
+        });
+
+        bindSuburbFilterEvents();
+        refreshSuburbMap();
+        updateSuburbDetail("ALL", 0, buildLookup());
+      }
+
+      let currentPatients = [];
+      let currentPage = 1;
+      const pageSize = 20;
+
+      function renderPatientsPage() {
+        const body = document.getElementById('patients-table-body');
+        body.innerHTML = '';
+        const total = currentPatients.length;
+        const pages = Math.max(1, Math.ceil(total / pageSize));
+        if (currentPage < 1) currentPage = 1;
+        if (currentPage > pages) currentPage = pages;
+        const start = (currentPage - 1) * pageSize;
+        const slice = currentPatients.slice(start, start + pageSize);
+        slice.forEach(p => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `<td style="padding:6px 8px">${p.PatientID}</td><td style="text-align:center">${p.Gender}</td><td style="text-align:center">${p.AgeBand}</td><td style="text-align:center">${p.Postcode || ''}</td>`;
+          tr.style.cursor = 'pointer';
+          tr.title = 'Click to view patient details';
+          tr.addEventListener('click', () => showPatientDetails(p.PatientID));
+          body.appendChild(tr);
+        });
+        document.getElementById('patients-page-info').textContent = `${total} patients — page ${currentPage}/${pages}`;
+        document.getElementById('patients-prev').disabled = currentPage <= 1;
+        document.getElementById('patients-next').disabled = currentPage >= pages;
+      }
+
+      async function showPatientsForMonth(year, month) {
+        const pbm = await fetchJson(dataPath + 'patients_by_month.json');
+        const key = `${year}-${String(month).padStart(2,'0')}`;
+        const rec = pbm.find(r => String(r.Year) === String(year) && String(r.Month).padStart(2,'0') === String(month).padStart(2,'0'));
+        currentPatients = rec && rec.Patients ? rec.Patients : [];
+        currentPage = 1;
+        if (!currentPatients.length) {
+          document.getElementById('status').textContent = `No patients for ${key}`;
+        } else {
+          document.getElementById('status').textContent = `Patients for ${key}`;
+        }
+        renderPatientsPage();
+      }
+
+      async function loadPatients(q = "") {
+        const rows = await fetchJson(dataPath + "patients_sample.json");
+        const body = document.getElementById("patients-table-body"); body.innerHTML = "";
+        rows.filter(r => !q || String(r.PatientID).includes(q)).forEach((r) => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td style="padding:6px 8px">${r.PatientID}</td><td style="text-align:center">${r.Gender}</td><td style="text-align:center">${r.AgeBand}</td><td style="text-align:center">${r.Postcode}</td>`;
+          tr.style.cursor = 'pointer';
+          tr.title = 'Click to view patient details';
+          tr.addEventListener('click', () => showPatientDetails(r.PatientID));
+          body.appendChild(tr);
+        });
+      }
+
+      let patientEncountersChart = null;
+      let patientLabsChart = null;
+
+      async function showPatientDetails(patientId) {
+        document.getElementById('patient-details').style.display = 'block';
+        document.getElementById('patient-details-title').textContent = `Patient ${patientId}`;
+        // fetch per-patient aggregates
+        const [pebm, plfb] = await Promise.all([
+          fetchJson(dataPath + 'patient_encounters_by_month.json'),
+          fetchJson(dataPath + 'patient_lab_flags_by_month.json'),
+        ]);
+        const encRows = pebm.filter(r => String(r.PatientID) === String(patientId)).sort((a,b) => (a.Year - b.Year) || (a.Month - b.Month));
+        const labRows = plfb.filter(r => String(r.PatientID) === String(patientId)).sort((a,b) => (a.Year - b.Year) || (a.Month - b.Month));
+
+        // prepare labels covering both enc and lab months
+        const monthsSet = new Set();
+        encRows.forEach(r => monthsSet.add(`${r.Year}-${String(r.Month).padStart(2,'0')}`));
+        labRows.forEach(r => monthsSet.add(`${r.Year}-${String(r.Month).padStart(2,'0')}`));
+        const labels = Array.from(monthsSet).sort();
+
+        const encData = labels.map(l => {
+          const [yr, mo] = l.split('-');
+          const row = encRows.find(r => String(r.Year) === yr && String(r.Month).padStart(2,'0') === mo);
+          return row ? Number(row.EncounterCount) : 0;
+        });
+
+        destroy(patientEncountersChart);
+        patientEncountersChart = new Chart(document.getElementById('patientEncountersChart'), {
+          type: 'bar',
+          data: { labels, datasets: [{ label: 'Encounters', data: encData, backgroundColor: '#0f2a43' }] },
+          options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } }, plugins: { legend: { display: false } } },
+        });
+
+        // build lab stacked data
+        const flags = ['LOW','NORMAL','HIGH'];
+        const colors = { LOW: '#f25f5c', NORMAL: '#2ec4b6', HIGH: '#f6ae2d' };
+        const datasets = flags.map(flag => {
+          const data = labels.map(l => {
+            const [yr, mo] = l.split('-');
+            const row = labRows.find(r => String(r.Year) === yr && String(r.Month).padStart(2,'0') === mo && r.ResultFlag === flag);
+            return row ? Number(row.ResultCount) : 0;
+          });
+          return { label: flag, data, backgroundColor: colors[flag] };
+        });
+
+        destroy(patientLabsChart);
+        patientLabsChart = new Chart(document.getElementById('patientLabsChart'), {
+          type: 'bar',
+          data: { labels, datasets },
+          options: { responsive: true, maintainAspectRatio: false, scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true } } },
+        });
+      }
+
+      document.getElementById("patient-refresh").addEventListener("click", () => loadPatients(document.getElementById("patient-search").value));
+      document.getElementById("patient-search").addEventListener("keyup", (e) => { if (e.key === "Enter") loadPatients(e.target.value); });
+      document.getElementById("rebuild-btn").addEventListener("click", async () => {
+        document.getElementById("status").textContent = "Rebuilding JSON data... Run: python src/build_static_data.py";
+      });
+
+      document.getElementById('patients-prev').addEventListener('click', () => { currentPage = Math.max(1, currentPage - 1); renderPatientsPage(); });
+      document.getElementById('patients-next').addEventListener('click', () => { currentPage = currentPage + 1; renderPatientsPage(); });
+
+      // Init
+      loadYears().then((y) => {
+        const sel = document.getElementById("year-select");
+        const activeYear = sel.value || y;
+        loadCharts(activeYear);
+        loadPatients();
+        initSuburbMap(activeYear);
+      }).catch((e) => (document.getElementById("status").textContent = e.message));
+    </script>
+  </body>
+</html>
